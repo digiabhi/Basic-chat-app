@@ -1,0 +1,18 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat app using socket.io with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0",
+    "socket.io": "^4.7.1"
+  }
+}
